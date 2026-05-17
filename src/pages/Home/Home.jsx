@@ -154,6 +154,8 @@ const Homepage = () => {
                 Below is what i was banned as done by ai but my genuine work, i
                 am really sorry by the platform what says ai the genuine work of
                 me!!!
+
+                long live ethiopia!
               </motion.p>
 
               {/* Sign Up / Sign In Buttons */}
