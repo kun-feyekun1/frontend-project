@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
@@ -31,7 +30,7 @@ const Homepage = () => {
           duration: 1,
           stagger: 0.2,
           ease: "power3.out",
-        }
+        },
       );
     }
 
@@ -53,7 +52,7 @@ const Homepage = () => {
             end: "bottom 30%",
             toggleActions: "play none none reverse",
           },
-        }
+        },
       );
     }
 
@@ -152,6 +151,9 @@ const Homepage = () => {
               <motion.p className="hero-text text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto mb-8 leading-relaxed">
                 The all-in-one platform that helps teams build, launch, and
                 scale amazing products with unprecedented speed and efficiency.
+                Below is what i was banned as done by ai but my genuine work, i
+                am really sorry by the platform what says ai the genuine work of
+                me!!!
               </motion.p>
 
               {/* Sign Up / Sign In Buttons */}
